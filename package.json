@@ -1,11 +1,16 @@
 {
-  "name": "bongo-cat",
+  "name": "empirecat",
   "type": "module",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "private": true,
+  "description": "AI desktop coding companion inspired by BongoCat, built with Tauri, Vue, TypeScript, and Rust.",
   "author": {
-    "name": "ayangweb",
-    "email": "ayangweb@foxmail.com"
+    "name": "MiamiCreme",
+    "email": "burtonjamal76@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miamicreme/EmpireCat.git"
   },
   "scripts": {
     "dev": "run-s build:icon dev:vite",
